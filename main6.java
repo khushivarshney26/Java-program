@@ -23,7 +23,7 @@ public class main6 {
     }
   }
 }
-/* Name- khushi varshney
- * university roll no.-221500913
- * sec-G
+/* Name- Khushi Varshney
+ * University roll no.-2215000913
+ * Sec-G
  */
