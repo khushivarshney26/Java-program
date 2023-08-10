@@ -18,8 +18,7 @@ public class main7 {
     System.out.println("Last digit: " + lastDigit);
   }
 }
-/* Name- khushi varshney
- * university roll no.-221500913
- * sec-G
+/* Name- Khushi Varshney
+ * University roll no.-2215000913
+ * Sec-G
  */
-
