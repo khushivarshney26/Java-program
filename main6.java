@@ -1,4 +1,4 @@
-/*6.wap to check weather a no is pallendrom or no. */
+/*6.wap to check weather a no is palindrome or no. */
 import java.util.Scanner;
 
 public class main6 {
